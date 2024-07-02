@@ -1,0 +1,6 @@
+easy_admin:
+
+  entities:
+    - App\Entity\Sport
+    - App\Entity\Event
+    - App\Entity\Participant
